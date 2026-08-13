@@ -1,5 +1,5 @@
 
-Computer Engineer | AI/ML & IoT Researcher | IEEE Xplore Author | Passionate about applied AI for real-world solutions
+Computer Engineering ’27 | 5x National Hackathon Finalist | AI/ML & GenAI Enthusiast | RAG & LLM Applications | Student Researcher | IEEE Xplore Author | Python | Backend Development
 
 # 💫 About Me:
 Hey there! I’m Chaitanya Patil, a Computer Engineering student passionate about building intelligent and connected systems that bridge AI, IoT, and Blockchain with real-world impact.<br>I love transforming ideas into scalable solutions whether it’s through machine learning models, IoT-driven dashboards, or smart automation tools. I’ve also had the opportunity to publish my research in IEEE Xplore, where my team and I explored data transparency and trust in digital ecosystems.<br>What I Do<br>🤖 Develop and deploy AI/ML solutions for prediction & analytics<br>🌐 Build IoT-based monitoring systems with real-time visualization<br>🔗 Explore Blockchain for secure and transparent data systems<br>🧠 Combine research with engineering to solve real-world challenges
