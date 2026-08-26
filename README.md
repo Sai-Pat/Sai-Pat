@@ -1,9 +1,25 @@
-
-Computer Engineering ’27 | 5x National Hackathon Finalist | AI/ML & GenAI Enthusiast | RAG & LLM Applications | Student Researcher | IEEE Xplore Author | Python | Backend Development
+Computer Engineering ’27 | 5x National Hackathon Finalist | AI/ML & GenAI | RAG & LLM Applications | Backend Development | Computer Networks & Security | Student Researcher | IEEE Xplore Author | Python
 
 # 💫 About Me:
-Hey there! I’m Chaitanya Patil, a Computer Engineering student passionate about building intelligent and connected systems that bridge AI, IoT, and Blockchain with real-world impact.<br>I love transforming ideas into scalable solutions whether it’s through machine learning models, IoT-driven dashboards, or smart automation tools. I’ve also had the opportunity to publish my research in IEEE Xplore, where my team and I explored data transparency and trust in digital ecosystems.<br>What I Do<br>🤖 Develop and deploy AI/ML solutions for prediction & analytics<br>🌐 Build IoT-based monitoring systems with real-time visualization<br>🔗 Explore Blockchain for secure and transparent data systems<br>🧠 Combine research with engineering to solve real-world challenges
+Hey there! I’m **Chaitanya Patil**, a Computer Engineering undergraduate passionate about building intelligent, reliable, and connected systems that combine **AI/ML, Generative AI, backend engineering, data, networking, and security** to solve real-world problems.
 
+I enjoy turning ideas into practical software — from **RAG and LLM-powered applications** and machine learning systems to backend APIs, data-driven platforms, and technology-focused research. I’m particularly interested in understanding how intelligent systems can be made **reliable, scalable, secure, and production-oriented**.
+
+My work has also led to research published in **IEEE Xplore**, where my team explored blockchain and machine learning for improving transparency and trust in agricultural supply chains.
+
+### What I Do
+🤖 Build AI/ML and Generative AI applications for prediction, retrieval, and intelligent automation  
+🧠 Develop **RAG pipelines and LLM-powered applications** using semantic retrieval and contextual generation  
+⚙️ Build backend services, REST APIs, data workflows, and application integrations  
+🌐 Explore **Computer Networks, distributed systems, and secure communication**  
+🔐 Learn and apply **cybersecurity and security-oriented engineering concepts**  
+📊 Work with data processing, analytics, feature engineering, and machine learning  
+🔗 Explore Blockchain for transparent and traceable digital systems  
+🔬 Combine research with software engineering to solve practical problems  
+🏆 Participate in hackathons, technical competitions, and student-led technology initiatives  
+
+### 🚀 Current Focus
+**AI/ML • Generative AI • RAG • LLM Applications • Backend Engineering • Computer Networks • Security • Data & ML Systems**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1384381818068799551) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coderpat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://shorturl.at/W20Ie) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/coderpat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patilchaitanya604@gmail.com) 
